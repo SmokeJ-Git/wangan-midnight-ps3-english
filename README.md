@@ -17,11 +17,11 @@ The menus, the story and the on-screen text are all in English. 🇬🇧 (The vo
 
 ## 📸 Screenshots
 
-| 🎞️ Story cutscene | 💬 Race cut-in | 📋 Main menu |
+| 🎞️ Story cutscene | 💬 Race cut-in | 🏁 Title screen |
 |:---:|:---:|:---:|
-| ![Story photo cutscene: the Japanese vertical text stays, with an English subtitle](screenshots/screenshot-1-story-cutscene.png) | ![In-race cut-in with the Japanese line and the English line under it](screenshots/screenshot-2-race-cutin.png) | ![Main menu in English](screenshots/screenshot-3-main-menu.png) |
-| 🎬 **Midnight Theater** | 🏆 **Results** | 🃏 **Card details** |
-| ![Midnight Theater menu in English](screenshots/screenshot-4-midnight-theater.png) | ![Time Attack results screen in English](screenshots/screenshot-5-results.png) | ![Ability card details in English](screenshots/screenshot-6-card-details.png) |
+| ![Story photo cutscene: the Japanese vertical text stays, with an English subtitle](screenshots/screenshot-1-story-cutscene.png) | ![In-race cut-in with the Japanese line and the English line under it](screenshots/screenshot-2-race-cutin.png) | ![Title screen with the English copyright line](screenshots/screenshot-3-title-screen.png) |
+| 🎬 **Midnight Theater** | 🏆 **Results** | 🃏 **Card View** |
+| ![Midnight Theater menu in English](screenshots/screenshot-4-midnight-theater.png) | ![Time Attack results screen in English](screenshots/screenshot-5-results.png) | ![Card View screen in English](screenshots/screenshot-6-card-view.png) |
 
 *Taken from the patched game in RPCS3.*
 
