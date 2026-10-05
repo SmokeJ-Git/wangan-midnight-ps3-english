@@ -107,7 +107,6 @@ SHA-1 of the patched `WMN.DAT`: `942ae1cbd0c1cf557202f8e92313c4c1f7274b6d`
 
 - 🖥️ Tested on emulator (RPCS3) only. It hasn't been tried on real PS3 hardware yet. A real PS3 needs the patched `EBOOT.BIN` re-signed; with the original one the few `EBOOT.BIN` lines stay Japanese.
 - 👀 Not checked on screen yet: story cutscenes past the opening of each arc, the Character File and Car Library entries (they unlock as you play), a cut-in with the portrait on the right, Survival mode, and online mode (Wangan Connection).
-- 💬 In the camera view with the gauges at the bottom center, the gauges cover part of the cut-in subtitle.
 - 🤏 The title-screen copyright line is correct but small.
 
 Found something still in Japanese, or text that runs off the screen? Open an [issue](../../issues) with a screenshot! 🙏
